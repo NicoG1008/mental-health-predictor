@@ -15,7 +15,7 @@ As someone passionate about health and data science, I created this project to:
 
 ## Dataset
 
-- **Source**: Mental Health & Lifestyle Survey Da
+- **Source**: Mental Health & Lifestyle Survey Dataset (Kaggle - Atharva Soundankar - "Mental Health and Lifestyle Habits (2019-2024)")
 - **Size**: ~3,000 responses
 - **Key Features Used**:
   - Sleep Hours  
